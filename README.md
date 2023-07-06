@@ -12,5 +12,5 @@
 
 <h2> 📄 Certifications</h2>
 
-- [CompTIA IT Fundamentals (ITF+)](https://www.credly.com/badges/41b1c63a-b4ae-4556-8e85-6dbf4b31d152/linked_in_profile){:target="_blank" rel="noopener"} 
-- [Comptia A+](https://www.credly.com/badges/41b1c63a-b4ae-4556-8e85-6dbf4b31d152/linked_in_profile){:target="_blank" rel="noopener"} 
+- [CompTIA IT Fundamentals (ITF+)](https://www.credly.com/badges/41b1c63a-b4ae-4556-8e85-6dbf4b31d152/linked_in_profile)
+- [Comptia A+](https://www.credly.com/badges/41b1c63a-b4ae-4556-8e85-6dbf4b31d152/linked_in_profile)
