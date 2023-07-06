@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm John! 🖥<a href="https://www.linkedin.com/in/john-rota-jr/">IT Support Professional</a>🖥
 
-<!--
-**johnrota/johnrota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>💻  Information Technology Projects: 💻</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System) </b>
+  - [osTicket: Prerequisites and Installation](https://github.com/johnrota)
+  - [osTicket: Post-Installation Configuration](https://github.com/johnrota)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/johnrota)
+- <b>Microsoft Azure </b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/johnrota) </b></i>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/johnrota)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 📄 Certifications</h2>
+
+- [CompTIA IT Fundamentals (ITF+)](https://www.credly.com/badges/41b1c63a-b4ae-4556-8e85-6dbf4b31d152/linked_in_profile)
+- [Comptia A+](https://www.credly.com/badges/41b1c63a-b4ae-4556-8e85-6dbf4b31d152/linked_in_profile)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/john-rota-jr
