@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/johnrota)
   - [osTicket: Post-Installation Configuration](https://github.com/johnrota)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/johnrota)
-- <b>Microsoft Azure </b>
+- <b>Active Directory Home Lab </b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/johnrota) </b></i>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/johnrota)
 
