@@ -14,10 +14,3 @@
 
 - [CompTIA IT Fundamentals (ITF+)](https://www.credly.com/badges/41b1c63a-b4ae-4556-8e85-6dbf4b31d152/linked_in_profile)
 - [Comptia A+](https://www.credly.com/badges/41b1c63a-b4ae-4556-8e85-6dbf4b31d152/linked_in_profile)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/john-rota-jr
