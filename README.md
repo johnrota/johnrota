@@ -7,8 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/johnrota)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/johnrota)
 - <b>Active Directory Home Lab </b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/johnrota) </b></i>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/johnrota)
+  - [How to setup Active Directory home lab with oracle box VM](https://github.com/johnrota/ActiveDirectoryLab) </b></i>
 
 <h2> 📄 Certifications</h2>
 
