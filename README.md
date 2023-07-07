@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/johnrota)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/johnrota)
 - <b>Active Directory Home Lab </b>
-  - [How to setup Active Directory home lab with oracle box VM](https://github.com/johnrota/ActiveDirectoryLab) </b></i>
+  - [How to setup Active Directory Home Lab with Oracle VirtualBox](https://github.com/johnrota/ActiveDirectoryLab) </b></i>
 
 <h2> 📄 Certifications</h2>
 
