@@ -3,8 +3,6 @@
 <h2>💻  Information Technology Projects: 💻</h2>
 
 - <b>osTicket (Help Desk Ticketing System) </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/johnrota)
-  - [osTicket: Post-Installation Configuration](https://github.com/johnrota)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/johnrota)
 - <b>Active Directory Home Lab </b>
   - [How to setup Active Directory Home Lab with Oracle VirtualBox](https://github.com/johnrota/ActiveDirectoryLab) </b></i>
