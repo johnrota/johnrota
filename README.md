@@ -3,12 +3,15 @@
 <h2>💻  Information Technology Projects: 💻</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/johnrota)
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/johnrota)
-- <b>Active Directory Home Lab </b>
-    - [How to setup Active Directory Home Lab with Oracle VirtualBox](https://github.com/johnrota/ActiveDirectoryLab) 
+  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/johnrota)
 - <b> osTicket (Help Desk Ticketing System) </b>
+    - [osTicket: Prerequisites and Installation](https://github.com/johnrota)
+    - [osTicket: Post-Installation Configuration](https://github.com/johnrota)
     - [osTicket: Ticket Lifecycle Examples](https://github.com/johnrota)
+- <b>Active Directory Home Lab </b>
+  - [How to setup Active Directory Home Lab with Oracle VirtualBox](https://github.com/johnrota/ActiveDirectoryLab) 
+
 
 
 <h2> 📄 Certifications</h2>
