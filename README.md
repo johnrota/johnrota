@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/johnrota)
+  - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/johnrota)
 - <b>Active Directory Home Lab </b>
     - [How to setup Active Directory Home Lab with Oracle VirtualBox](https://github.com/johnrota/ActiveDirectoryLab) 
 - <b> osTicket (Help Desk Ticketing System) </b>
