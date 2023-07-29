@@ -6,7 +6,7 @@
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/johnrota)
   - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/johnrota)
 - <b> osTicket (Help Desk Ticketing System) </b>
-    - [osTicket: Prerequisites and Installation](https://github.com/johnrota)
+    - [osTicket: Prerequisites and Installation](https://github.com/johnrota/osticket-prereqs)
     - [osTicket: Post-Installation Configuration](https://github.com/johnrota)
     - [osTicket: Ticket Lifecycle Examples](https://github.com/johnrota)
 - <b>Active Directory Home Lab </b>
