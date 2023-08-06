@@ -7,8 +7,8 @@
   - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/johnrota)
 - <b> osTicket (Help Desk Ticketing System) </b>
     - [osTicket: Prerequisites and Installation](https://github.com/johnrota/osticket-prereqs)
-    - [osTicket: Post-Installation Configuration](https://github.com/johnrota)
-    - [osTicket: Ticket Lifecycle Examples](https://github.com/johnrota)
+    - [osTicket: Post-Installation Configuration](https://github.com/johnrota/post-install-config)
+    - [osTicket: Ticket Lifecycle Examples](https://github.com/johnrota/ticket-lifecycle)
 - <b>Active Directory Home Lab </b>
   - [How to setup Active Directory Home Lab with Oracle VirtualBox](https://github.com/johnrota/ActiveDirectoryLab) 
 
