@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/johnrota)
-  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/johnrota)
+  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/johnrota/create-azure-vm/)
 - <b> osTicket (Help Desk Ticketing System) </b>
     - [osTicket: Prerequisites and Installation](https://github.com/johnrota/osticket-prereqs)
     - [osTicket: Post-Installation Configuration](https://github.com/johnrota/post-install-config)
